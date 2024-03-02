@@ -14,7 +14,7 @@ function Home() {
     return (
       <div>
         <i>Mantap Bang</i>
-        <marquee>alamak jaaang</marquee>
+        <marquee>Menyala Abangku</marquee>
       </div>
 
     )
