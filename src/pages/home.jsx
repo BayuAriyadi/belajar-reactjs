@@ -14,7 +14,7 @@ function Home() {
     return (
       <div>
         <i>Mantap Bang</i>
-        <marquee>Menyala Abangku 🔥🔥🔥</marquee>
+        <marquee>Menyala Abangku</marquee>
       </div>
 
     )
