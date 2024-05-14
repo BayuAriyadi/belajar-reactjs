@@ -30,7 +30,7 @@ function Home() {
         <Profile name={navText} />
         <img src={susi} alt="susi"/>
         <p>
-          HALO CUY!
+          HALO SEMUA!!
           <Introduction name="Bayu Ariyadi" />
         </p>
         <MyButton pages="/pacar" buttonName="Cari Pacar Anda!" size="lg"/>
